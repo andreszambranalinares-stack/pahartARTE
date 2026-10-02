@@ -1,0 +1,112 @@
+[
+  {
+    "nombre": "Azul de marca",
+    "hex": "#012C4D",
+    "rgb": [
+      1,
+      44,
+      77
+    ],
+    "uso": "Texto, botones y pestaña activa",
+    "origen": "Muestreo del logo"
+  },
+  {
+    "nombre": "Amarillo de marca",
+    "hex": "#F9BE09",
+    "rgb": [
+      249,
+      190,
+      9
+    ],
+    "uso": "Logotipo y acentos",
+    "origen": "Muestreo del logo"
+  },
+  {
+    "nombre": "Rojo de marca",
+    "hex": "#BB3E1C",
+    "rgb": [
+      187,
+      62,
+      28
+    ],
+    "uso": "Logotipo y acentos",
+    "origen": "Muestreo del logo"
+  },
+  {
+    "nombre": "Crema del símbolo",
+    "hex": "#FEF3E0",
+    "rgb": [
+      254,
+      243,
+      224
+    ],
+    "uso": "Detalles y fondos de apoyo",
+    "origen": "Muestreo del logo"
+  },
+  {
+    "nombre": "Fondo de página",
+    "hex": "#FCFAF5",
+    "rgb": [
+      252,
+      250,
+      245
+    ],
+    "uso": "Fondo común de la interfaz",
+    "origen": "Propuesta"
+  },
+  {
+    "nombre": "Superficie",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "uso": "Tarjetas, controles y diálogos",
+    "origen": "Propuesta"
+  },
+  {
+    "nombre": "Texto secundario",
+    "hex": "#647180",
+    "rgb": [
+      100,
+      113,
+      128
+    ],
+    "uso": "Biografía, etiquetas y ayudas",
+    "origen": "Propuesta"
+  },
+  {
+    "nombre": "Bordes",
+    "hex": "#E6E1D9",
+    "rgb": [
+      230,
+      225,
+      217
+    ],
+    "uso": "Contornos y separadores",
+    "origen": "Propuesta"
+  },
+  {
+    "nombre": "Disponible",
+    "hex": "#087B52",
+    "rgb": [
+      8,
+      123,
+      82
+    ],
+    "uso": "Texto de disponibilidad",
+    "origen": "Propuesta"
+  },
+  {
+    "nombre": "Fondo disponible",
+    "hex": "#E4F4ED",
+    "rgb": [
+      228,
+      244,
+      237
+    ],
+    "uso": "Etiqueta de disponibilidad",
+    "origen": "Propuesta"
+  }
+]
