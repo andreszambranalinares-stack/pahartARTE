@@ -1,0 +1,42 @@
+# Documentación original de trabajo: permanece en la copia local.
+/fuentes-originales/
+/herramientas/
+
+# Credenciales y configuración local.
+.env
+.env.*
+!.env.example
+!.env.*.example
+application-local.properties
+application-local.yml
+application-local.yaml
+*.pem
+*.key
+*.p12
+*.jks
+
+# Dependencias y compilaciones futuras.
+node_modules/
+dist/
+target/
+build/
+.gradle/
+.wrangler/
+coverage/
+
+# Datos e imágenes aportados por usuarios durante el desarrollo.
+uploads/
+datos-locales/
+*.sql.gz
+
+# Archivos de equipo y temporales de Office.
+.idea/
+.vscode/
+*.iml
+*.log
+__pycache__/
+*.pyc
+~$*
+desktop.ini
+Thumbs.db
+.DS_Store
