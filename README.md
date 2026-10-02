@@ -102,7 +102,7 @@ El nombre juega con la expresión andaluza **«pa’ hartarte»** y la palabra *
 | Crema del logotipo | `#FEF3E0` |
 | Fondo de la interfaz | `#FCFAF5` |
 
-Los colores del logotipo son una aproximación extraída del archivo con textura. Consulta la [paleta completa en PDF](documentos/paleta-colores.pdf) y los [valores en JSON](documentos/paleta-colores.json).
+Los colores del logotipo son una aproximación extraída del archivo con textura. Consulta la [ficha visual en PDF: paleta, tipografías y fuentes](documentos/paleta-colores.pdf) y los [valores en JSON](documentos/paleta-colores.json).
 
 ## Documentación y uso de IA
 
